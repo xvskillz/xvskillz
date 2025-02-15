@@ -1,8 +1,8 @@
 ### Hi there, I'm Skillz! 👋
 
-[![Website](https://img.shields.io/badge/Website-skillz.pw-ff69b4?style=flat-square&logo=google-chrome)](https://skillz.pw)
+[![Website](https://img.shields.io/badge/Website-soon-ff69b4?style=flat-square&logo=google-chrome)](https://xvskillz.???)
 [![GitHub followers](https://img.shields.io/github/followers/xvskillz?style=flat-square)](https://github.com/xvskillz?tab=followers)
-[![Discord](https://img.shields.io/badge/Discord-%40xvskillz-5865F2?style=flat-square&logo=discord)](https://discord.com/users/xvskillz)
+[![Discord](https://img.shields.io/badge/Discord-%40xvskillz-5865F2?style=flat-square&logo=discord)](https://discord.com/users/640181609693184000)
 
 ---
 
