@@ -1,8 +1,8 @@
 ### Hi there, I'm Skillz! 👋
 
 [![Website](https://img.shields.io/badge/Website-skillz.pw-ff69b4?style=flat-square&logo=google-chrome)](https://skillz.pw)
-[![GitHub followers](https://img.shields.io/github/followers/unexploitablev2?style=flat-square)](https://github.com/unexploitablev2?tab=followers)
-[![Discord](https://img.shields.io/badge/Discord-%40mightskillz-5865F2?style=flat-square&logo=discord)](https://discord.com/users/mightskillz)
+[![GitHub followers](https://img.shields.io/github/followers/xvskillz?style=flat-square)](https://github.com/xvskillz?tab=followers)
+[![Discord](https://img.shields.io/badge/Discord-%40xvskillz-5865F2?style=flat-square&logo=discord)](https://discord.com/users/xvskillz)
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
-![MightSkillz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvskillz&show_icons=true&theme=tokyonight)
+![Skillz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvskillz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvskillz&layout=compact&theme=tokyonight)
 
 ---
