@@ -6,11 +6,10 @@
 
 ---
 
-### 🚀 About Me
-- 🔥 Python developer specializing in **Discord bots** & automation.
-- ⚡ Creator of [Skillz Macro](https://github.com/unexploitablev2/skillzpw) and other advanced tools.
-- 🛠️ Active in **crypto, forex, and memecoins** via [Signal World](https://discord.com/invite/signalworld).
-- 🎧 Music enthusiast, using **Beyerdynamic DT 770 Pro 80 Ohm**.
+### 🚀 About Me & Hobbies
+- 🔥 Learning Python
+- 🛠️ Active in **crypto, forex, and memecoins**
+- 🎧 Music addict
 
 ---
 
