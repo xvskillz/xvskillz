@@ -1,4 +1,4 @@
-### Hi there, I'm MightSkillz! 👋
+### Hi there, I'm Skillz! 👋
 
 [![Website](https://img.shields.io/badge/Website-skillz.pw-ff69b4?style=flat-square&logo=google-chrome)](https://skillz.pw)
 [![GitHub followers](https://img.shields.io/github/followers/unexploitablev2?style=flat-square)](https://github.com/unexploitablev2?tab=followers)
@@ -15,28 +15,16 @@
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Panda3D](https://img.shields.io/badge/Panda3D-FFD700?style=for-the-badge&logo=panda3d&logoColor=black)
-![TensorRT](https://img.shields.io/badge/TensorRT-00ADEF?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![MightSkillz's GitHub stats](https://github-readme-stats.vercel.app/api?username=unexploitablev2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unexploitablev2&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 Featured Projects
-- 🚀 [Skillz Macro](https://github.com/unexploitablev2/skillzpw) - Advanced macro automation.
-- 🏦 [UserVault.gg](https://github.com/unexploitablev2/uservault) - Selling 4-letter Discord usernames.
-- 🔥 [BoostWorld](https://github.com/unexploitablev2/boostworld) - High-performance tools.
+![MightSkillz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvskillz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvskillz&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contact Me
-- 📩 Discord: **@mightskillz**
-- 🌐 Website: [skillz.pw](https://skillz.pw)
-- 📜 GitHub: [unexploitablev2](https://github.com/unexploitablev2)
-
-🔥 Always working on something new. Stay tuned!
+- 📩 Discord: **@xvskillz**
+- 🌐 Website: [xvskillz.???](https://xvskillz.??)
+- 📜 GitHub: [xvskillz](https://github.com/xvskillz)
