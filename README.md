@@ -1,30 +1,52 @@
-### Hi there, I'm Skillz! 👋
+<h1 align="center">Hey there, I'm Skillz! 👋</h1>
 
-[![Website](https://img.shields.io/badge/Website-soon-ff69b4?style=flat-square&logo=google-chrome)](https://xvskillz.???)
-[![GitHub followers](https://img.shields.io/github/followers/xvskillz?style=flat-square)](https://github.com/xvskillz?tab=followers)
-[![Discord](https://img.shields.io/badge/Discord-%40xvskillz-5865F2?style=flat-square&logo=discord)](https://discord.com/users/640181609693184000)
-
----
-
-### 🚀 About Me & Hobbies
-- 🔥 Learning Python
-- 🛠️ Active in **crypto, forex, and memecoins**
-- 🎧 Music addict
-
----
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://xvskillz.???">
+    <img src="https://img.shields.io/badge/Website-Coming%20Soon-ff69b4?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+  <a href="https://github.com/xvskillz?tab=followers">
+    <img src="https://img.shields.io/github/followers/xvskillz?style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://discord.com/users/640181609693184000">
+    <img src="https://img.shields.io/badge/Discord-%40xvskillz-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Skillz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvskillz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvskillz&layout=compact&theme=tokyonight)
+## 🚀 About Me & Hobbies
+
+💻 **Learning Python**  
+📈 **Active in crypto, forex, and memecoins**  
+🎵 **Music addict**  
 
 ---
 
-### 📫 Contact Me
-- 📩 Discord: **@xvskillz**
-- 🌐 Website: [xvskillz.???](https://xvskillz.??)
-- 📜 GitHub: [xvskillz](https://github.com/xvskillz)
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvskillz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xvskillz&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvskillz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📩 **Discord:** [@xvskillz](https://discord.com/users/640181609693184000)  
+🌐 **Website:** [Coming Soon](https://xvskillz.???)  
+🐙 **GitHub:** [xvskillz](https://github.com/xvskillz)  
